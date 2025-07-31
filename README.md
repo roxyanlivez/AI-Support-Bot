@@ -2,6 +2,7 @@
 
 A simple desktop chatbot built with **Python, Tkinter, and SQLite**.  
 It answers user questions from a local FAQ database — no external APIs needed.  
+License: This project is open-source and free to use
 
 ---
 
